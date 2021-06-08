@@ -12,6 +12,5 @@ function comparison () {
     document.getElementById('answer').innerHTML = 'Negative'
   } else {
     document.getElementById('answer').innerHTML = 'Positive'
-}
-
+  }
 }
